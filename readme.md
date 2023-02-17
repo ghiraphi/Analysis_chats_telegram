@@ -14,6 +14,8 @@
 - количество вступивших участников (вариативно).
 
 
+
+
 <img src="online_analise/files/my_plot.png" width="600">
 
 ## Установка
