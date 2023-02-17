@@ -13,7 +13,7 @@
 - количество сообщений с упоминием требуемой 
 - количество вступивших участников (вариативно).
 
-<img src="images/main.jpg" width="600">
+<img src="online_analise/files/my_plot.png" width="600">
 
 ## Установка
 ```
